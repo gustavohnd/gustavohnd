@@ -20,8 +20,6 @@ Engenheiro Civil com experiência em supervisão e fiscalização de obras migra
 
 Civil Engineer with experience in supervision and inspection for the area of ​​works migrating
 
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 Me consegue um trampo? Me envia um, [email](mailto:gustavonunes_17@hotmail.com) :)
 - 💬 Faça me uma pergunta, é dividindo conhecimento que nossa comunidade cresce;
