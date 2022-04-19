@@ -40,7 +40,7 @@ Civil Engineer with experience in supervision and inspection for the area of ​
 <!--END_SECTION:waka-->
 
 
-<div padding-top = 10px>
-<p align="center" padding-botton = 10px> <img src="https://github-readme-stats.vercel.app/api?username=gustavohnd&show_icons=true&theme=gotham" alt="gustavohnd"/>
+<div padding-top= 10px>
+<p align="center" padding-botton= 10px> <img src="https://github-readme-stats.vercel.app/api?username=gustavohnd&show_icons=true&theme=gotham" alt="gustavohnd"/>
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohnd&layout=compact&langs_count=16&theme=dark"/>
 </div>
