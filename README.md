@@ -1,6 +1,6 @@
 ### Fala Dev!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<div>
+<div style="display: flex">
 <a href="https://www.instagram.com/gustavoh.nunes/">
   <img align="left" alt="Gustavo Nunes Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -26,7 +26,7 @@ Civil Engineer with experience in supervision and inspection for the area of ​
 - 💼 Me consegue um trampo? Me envia um, [email](mailto:gustavonunes_17@hotmail.com) :)
 - 💬 Faça me uma pergunta, é dividindo conhecimento que nossa comunidade cresce;
 
-**languages and tools:**  
+**Linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
